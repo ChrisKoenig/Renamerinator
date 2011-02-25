@@ -1,0 +1,5 @@
+c:\code\Randomizerinator\Randomizerinator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\code\Randomizerinator\Randomizerinator\bin\Debug\Randomizerinator.exe
+c:\code\Randomizerinator\Randomizerinator\bin\Debug\Randomizerinator.pdb
+c:\code\Randomizerinator\Randomizerinator\obj\x86\Debug\Randomizerinator.exe
+c:\code\Randomizerinator\Randomizerinator\obj\x86\Debug\Randomizerinator.pdb
